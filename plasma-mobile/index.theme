@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=Plasma Mobile
+Comment=Plasma Mobile sound theme
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
