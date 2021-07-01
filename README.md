@@ -4,7 +4,9 @@ Default sounds for Plasma Mobile. These sounds should be installed at `/usr/shar
 
 The sounds used in the theme are in the [plasma-mobile/stereo](plasma-mobile/stereo) folder.
 
-The original source files are in the [original](original) folder.
+The original source files are in the [source](source) folder.
+
+All `oga` files were generated from the `wav` files with the following command: `ffmpeg -i file.wav -acodec libvorbis -aq 4 file.oga`. Be sure to add metadata to the generated files.
 
 ## License
 
