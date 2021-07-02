@@ -8,7 +8,7 @@ The original source files are in the [source](source) folder.
 
 All `oga` files were generated from the `wav` files with the following command: `ffmpeg -i file.wav -acodec libvorbis -aq 4 file.oga`. Be sure to add metadata to the generated files.
 
-The default alarm sound is `Spatial` and the default ringtone is `Elevated`.
+The default ringtone and alarm sound is `Spatial`.
 
 ## Sound list
 
