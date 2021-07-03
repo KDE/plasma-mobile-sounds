@@ -8,7 +8,7 @@ The original source files are in the [source](source) folder.
 
 All `oga` files were generated from the `wav` files with the following command: `ffmpeg -i file.wav -acodec libvorbis -aq 4 file.oga`. Be sure to add metadata to the generated files.
 
-The default ringtone and alarm sound is `Spatial`.
+The default ringtone is `Spatial`, and alarm is `Miniature`.
 
 ## Sound list
 
@@ -30,12 +30,10 @@ The default ringtone and alarm sound is `Spatial`.
 | Revelation                | Ringtone/Alarm | CC BY-SA 4.0  | nesdood007
 | Slowly                    | Ringtone/Alarm |               | kde-qnebra
 | Spatial                   | Ringtone/Alarm | CC BY 4.0     | akashii
-| Unknown                   | Ringtone/Alarm | CC BY 4.0     | shellraiser
+| Unfamiliar                | Ringtone/Alarm | CC BY 4.0     | shellraiser
 | Wink                      | Ringtone/Alarm | CC BY 4.0     | kenoi
 | Wubstep                   | Ringtone/Alarm | CC BY 4.0     | akashii
 | Awaken                    | Notification   | CC0           | typeyourtexthere
 | Blip                      | Notification   | CC BY 4.0     | akashii
 | Doorbell                  | Notification   | CC0           | typeyourtexthere
 | Pointed                   | Notification   | CC BY 4.0     | akashii
-
-
