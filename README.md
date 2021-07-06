@@ -14,26 +14,26 @@ The default ringtone is `Spatial`, and alarm is `Miniature`.
 
 | Sound                    | Type           | License      | Author        |
 | ------------------------ | -------------- | ------------ | ------------- |
-| Arp                       | Ringtone/Alarm | CC BY 4.0     | shellraiser
-| Crunch                    | Ringtone/Alarm | CC BY 4.0     | norhyzones
+| Arp                       | Ringtone/Alarm | CC BY 4.0     | Shell Raiser
+| Crunch                    | Ringtone/Alarm | CC BY 4.0     | Neyrax
 | Elevated                  | Ringtone/Alarm | CC BY-SA 4.0  | nesdood007
-| Errand                    | Ringtone/Alarm | CC BY 4.0     | akashii
-| Gentle                    | Ringtone/Alarm | CC BY 4.0     | kenoi
-| Glazed                    | Ringtone/Alarm | CC0           | typeyourtexthere
-| Lightly                   | Ringtone/Alarm | CC0           | typeyourtexthere
-| Machine                   | Ringtone/Alarm | CC BY 4.0     | norhyzones
-| Miniature                 | Ringtone/Alarm | CC0           | typeyourtexthere
-| Morning Rush              | Ringtone/Alarm | CC BY 4.0     | norhyzones
+| Errand                    | Ringtone/Alarm | CC BY 4.0     | Axel Lopez
+| Gentle                    | Ringtone/Alarm | CC BY 4.0     | Derek Lin
+| Glazed                    | Ringtone/Alarm | CC0           | Ivan Kiselyov
+| Lightly                   | Ringtone/Alarm | CC0           | Ivan Kiselyov
+| Machine                   | Ringtone/Alarm | CC BY 4.0     | Neyrax
+| Miniature                 | Ringtone/Alarm | CC0           | Ivan Kiselyov
+| Morning Rush              | Ringtone/Alarm | CC BY 4.0     | Neyrax
 | Nightlights               | Ringtone/Alarm | CC BY-SA 4.0  | nesdood007
-| On The Way                | Ringtone/Alarm | CC0           | typeyourtexthere
-| Progressive               | Ringtone/Alarm | CC BY 4.0     | norhyzones
+| On The Way                | Ringtone/Alarm | CC0           | Ivan Kiselyov
+| Progressive               | Ringtone/Alarm | CC BY 4.0     | Neyrax
 | Revelation                | Ringtone/Alarm | CC BY-SA 4.0  | nesdood007
-| Slowly                    | Ringtone/Alarm |               | kde-qnebra
-| Spatial                   | Ringtone/Alarm | CC BY 4.0     | akashii
-| Unfamiliar                | Ringtone/Alarm | CC BY 4.0     | shellraiser
-| Wink                      | Ringtone/Alarm | CC BY 4.0     | kenoi
-| Wubstep                   | Ringtone/Alarm | CC BY 4.0     | akashii
-| Awaken                    | Notification   | CC0           | typeyourtexthere
-| Blip                      | Notification   | CC BY 4.0     | akashii
-| Doorbell                  | Notification   | CC0           | typeyourtexthere
-| Pointed                   | Notification   | CC BY 4.0     | akashii
+| Slowly                    | Ringtone/Alarm | CC BY-SA 4.0  | kde-qnebra
+| Spatial                   | Ringtone/Alarm | CC BY 4.0     | Axel Lopez
+| Unfamiliar                | Ringtone/Alarm | CC BY 4.0     | Shell Raiser
+| Wink                      | Ringtone/Alarm | CC BY 4.0     | Derek Lin
+| Wubstep                   | Ringtone/Alarm | CC BY 4.0     | Axel Lopez
+| Awaken                    | Notification   | CC0           | Ivan Kiselyov
+| Blip                      | Notification   | CC BY 4.0     | Axel Lopez
+| Doorbell                  | Notification   | CC0           | Ivan Kiselyov
+| Pointed                   | Notification   | CC BY 4.0     | Axel Lopez
