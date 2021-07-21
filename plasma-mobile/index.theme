@@ -1,6 +1,18 @@
 [Sound Theme]
 Name=Plasma Mobile
+Name[es]=Plasma Mobile
+Name[eu]=Plasma Mugikorra
+Name[nl]=Plasma-mobiel
+Name[sv]=Plasma mobil
+Name[uk]=Мобільна Плазма
+Name[x-test]=xxPlasma Mobilexx
 Comment=Plasma Mobile sound theme
+Comment[es]=Tema de sonidos de Plasma Mobile
+Comment[eu]=Plasma Mugikorreko soinu-gaia
+Comment[nl]=Geluidsthema van Plasma-mobiel
+Comment[sv]=Plasma Mobil ljudtema
+Comment[uk]=Звукова тема Мобільної Плазми
+Comment[x-test]=xxPlasma Mobile sound themexx
 Directories=stereo
 
 [stereo]
