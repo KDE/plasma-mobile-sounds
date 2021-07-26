@@ -2,6 +2,7 @@
 Name=Plasma Mobile
 Name[ca]=Plasma Mobile
 Name[cs]=Plasma Mobile
+Name[en_GB]=Plasma Mobile
 Name[es]=Plasma Mobile
 Name[eu]=Plasma Mugikorra
 Name[fr]=Plasma Mobile
@@ -18,6 +19,7 @@ Name[x-test]=xxPlasma Mobilexx
 Comment=Plasma Mobile sound theme
 Comment[ca]=Tema de so del Plasma Mobile
 Comment[cs]=Zvukový motiv Plasma Mobile
+Comment[en_GB]=Plasma Mobile sound theme
 Comment[es]=Tema de sonidos de Plasma Mobile
 Comment[eu]=Plasma Mugikorreko soinu-gaia
 Comment[fr]=Thème sonore de Plasma Mobile
