@@ -1,6 +1,7 @@
 [Sound Theme]
 Name=Plasma Mobile
 Name[ca]=Plasma Mobile
+Name[ca@valencia]=Plasma Mobile
 Name[cs]=Plasma Mobile
 Name[en_GB]=Plasma Mobile
 Name[es]=Plasma Mobile
@@ -16,8 +17,10 @@ Name[sl]=Plasma Mobile
 Name[sv]=Plasma mobil
 Name[uk]=Мобільна Плазма
 Name[x-test]=xxPlasma Mobilexx
+Name[zh_CN]=Plasma Mobile
 Comment=Plasma Mobile sound theme
 Comment[ca]=Tema de so del Plasma Mobile
+Comment[ca@valencia]=Tema de so del Plasma Mobile
 Comment[cs]=Zvukový motiv Plasma Mobile
 Comment[en_GB]=Plasma Mobile sound theme
 Comment[es]=Tema de sonidos de Plasma Mobile
@@ -33,6 +36,7 @@ Comment[sl]=Glasbena tema Plasma Mobile
 Comment[sv]=Plasma Mobil ljudtema
 Comment[uk]=Звукова тема Мобільної Плазми
 Comment[x-test]=xxPlasma Mobile sound themexx
+Comment[zh_CN]=Plasma Mobile 声音主题
 Directories=stereo
 
 [stereo]
