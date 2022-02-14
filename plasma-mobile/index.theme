@@ -1,6 +1,7 @@
 [Sound Theme]
 Name=Plasma Mobile
 Name[ar]=بلازما الجوال
+Name[az]=Plasma Mobil
 Name[ca]=Plasma Mobile
 Name[ca@valencia]=Plasma Mobile
 Name[cs]=Plasma Mobile
@@ -29,6 +30,7 @@ Name[x-test]=xxPlasma Mobilexx
 Name[zh_CN]=Plasma Mobile
 Comment=Plasma Mobile sound theme
 Comment[ar]=سمة الصوت لبلازما الجوال
+Comment[az]=Plasma Mobil səs mövzusu
 Comment[ca]=Tema de so del Plasma Mobile
 Comment[ca@valencia]=Tema de so del Plasma Mobile
 Comment[cs]=Zvukový motiv Plasma Mobile
