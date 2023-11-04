@@ -34,7 +34,6 @@ Name[sv]=Plasma mobil
 Name[tr]=Plasma Cep
 Name[uk]=Мобільна Плазма
 Name[vi]=Plasma Di động
-Name[x-test]=xxPlasma Mobilexx
 Name[zh_CN]=Plasma Mobile
 Comment=Plasma Mobile sound theme
 Comment[ar]=سمة الصوت لبلازما الجوال
@@ -71,7 +70,6 @@ Comment[sv]=Plasma Mobil ljudtema
 Comment[tr]=Plasma Cep ses teması
 Comment[uk]=Звукова тема Мобільної Плазми
 Comment[vi]=Chủ đề âm thanh Plasma Di động
-Comment[x-test]=xxPlasma Mobile sound themexx
 Comment[zh_CN]=Plasma Mobile 声音主题
 Directories=stereo
 
