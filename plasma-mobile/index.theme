@@ -36,6 +36,7 @@ Name[uk]=Мобільна Плазма
 Name[vi]=Plasma Di động
 Name[x-test]=xxPlasma Mobilexx
 Name[zh_CN]=Plasma Mobile
+Name[zh_TW]=Plasma 行動
 Comment=Plasma Mobile sound theme
 Comment[ar]=سمة الصوت لبلازما الجوال
 Comment[az]=Plasma Mobil səs mövzusu
@@ -73,6 +74,7 @@ Comment[uk]=Звукова тема Мобільної Плазми
 Comment[vi]=Chủ đề âm thanh Plasma Di động
 Comment[x-test]=xxPlasma Mobile sound themexx
 Comment[zh_CN]=Plasma Mobile 声音主题
+Comment[zh_TW]=Plasma 行動音效主題
 Directories=stereo
 
 [stereo]
